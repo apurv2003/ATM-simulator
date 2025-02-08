@@ -1,1 +1,1 @@
-# ATM-simulator
+An ATM Simulator project simulates ATM functionalities such as balance inquiry, withdrawal, deposit, and account transfers. Users interact with the ATM through a console interface, inputting PINs and selecting operations like checking their balance or withdrawing cash. The simulator manages account data, validates PIN inputs, and updates account balances based on transaction results.
